@@ -1,0 +1,17 @@
+Aqui se presenta el proyecto integrado 2, referente a la empresa minera Zyfra la cual desarrolla soluciones de eficiencia para la industria pesada.
+El modelo debe predecir la cantidad de oro extraído del mineral bruto de oro. Se disponde de los datos de extracción y purificación.
+El modelo ayudará a optimizar la producción y eliminar parámetros no rentables.
+Datos:
+1. Prepara los datos
+1.1. Abre los archivos y examina los datos.
+
+1.2. Comprueba que el cálculo de la recuperación sea correcto. Calcula la recuperación de la característica rougher.output.recovery mediante el conjunto de entrenamiento. Encuentra el EAM entre tus cálculos y los valores de la característica. Facilita los resultados.
+1.3. Analiza las características no disponibles en el conjunto de prueba. ¿Cuáles son estos parámetros? ¿Cuál es su tipo?
+1.4. Realiza el preprocesamiento de datos.
+2. Analiza los datos
+2.1. Observa cómo cambia la concentración de metales (Au, Ag, Pb) en función de la etapa de purificación.
+2.2. Compara las distribuciones del tamaño de las partículas de la alimentación en el conjunto de entrenamiento y en el conjunto de prueba. Si las distribuciones varían significativamente, la evaluación del modelo no será correcta.
+2.3. Considera las concentraciones totales de todas las sustancias en las diferentes etapas: materia prima, concentrado rougher y concentrado final. ¿Observas algún valor anormal en la distribución total? Si es así, ¿merece la pena eliminar esos valores de ambas muestras? Describe los resultados y elimina las anomalías.
+3. Construye el modelo
+3.1. Escribe una función para calcular el valor final de sMAPE.
+3.2. Entrena diferentes modelos. Evalúalos aplicando la validación cruzada. Elige el mejor modelo y pruébalo utilizando la muestra de prueba. Facilita los resultados.
