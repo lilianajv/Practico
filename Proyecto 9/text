@@ -1,0 +1,12 @@
+Este proyecto se basa en aprendizaje automático en negocios. La empresa OilyGiant requiere evaluar la mejor localizacion para la perforación de nuevos pozos. 
+Para ello desarrolla un modelo de machine learning que prediga el volumen de reservas y el área que ofrezca menor riesgo.
+Las variables involucradas son:
+id — identificador único de pozo de petróleo
+f0, f1, f2 — tres características de los puntos (su significado específico no es importante, pero las características en sí son significativas)
+product — volumen de reservas en el pozo de petróleo (miles de barriles).
+Condiciones:
+Solo la regresión lineal es adecuada para el entrenamiento de modelos (el resto no son lo suficientemente predecibles).
+Al explorar la región, se lleva a cabo un estudio de 500 puntos con la selección de los mejores 200 puntos para el cálculo del beneficio.
+El presupuesto para el desarrollo de 200 pozos petroleros es de 100 millones de dólares.
+Un barril de materias primas genera 4.5 USD de ingresos. El ingreso de una unidad de producto es de 4500 dólares (el volumen de reservas está expresado en miles de barriles).
+Después de la evaluación de riesgo, mantén solo las regiones con riesgo de pérdidas inferior al 2.5%. De las que se ajustan a los criterios, se debe seleccionar la región con el beneficio promedio más alto.
