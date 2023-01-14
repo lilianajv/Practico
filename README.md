@@ -23,9 +23,23 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Data Sc
  
 </div>
 ---
+
+### : Proyectos :
 <div id="header" align="left">
   
 | Proyecto | Descripción |
 | --- | --- |
-| Python básico | Música |
-| Preprocesamiento de Datos | Show file differences that haven't been staged |
+| Python Básico | Música |
+| Preprocesamiento de Datos | Puntuación de crédito en una entidad bancaria |
+| Análisis Exploratorio de Datos | Factores que influyen en el precio de un vehículo |
+| Análisis Estadístico de Datos | Que tarifa en la compañia telefónica genera más ganancias? |
+| Proyecto 1 | Cuál videojuego vendió más? |
+| Recopilación y almacenamiento de Datos | Preferencia de viaje de los pasajeros |
+| Introducción al Machine Learning | Modelo para escoger el mejor plan telefónico |
+| Aprendizaje supervisado | Dejaría un cliente el banco? |
+| Aprendizaje automático en negocios | Mejor localización para perforar un pozo |
+| Proyecto 2 | Modelo de predicción para una empresa de la industria pesada |
+| Álgebra lineal | Recibirá un cliente beneficios de la comañía de seguros? |
+| Métodos numéricos | Modelo para determinarl el valor de mercado de un coche de segunda mano |
+| Series Temporales | Modelo para predecir la cantidad de pedidos de taxis |
+| Aprendizaje automático para textos | Modelo para predicción |
