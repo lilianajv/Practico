@@ -1,4 +1,4 @@
-El conjunto de datos contiene los siguientes datos:
+El conjunto de datos para una empresa de ventas de vehiculos online contiene las siguienes variables:
 price
 model_year
 model
@@ -11,4 +11,5 @@ paint_color
 is_4wd — si el vehículo tiene tracción a las 4 ruedas (tipo Booleano)
 date_posted — la fecha en la que el anuncio fue publicado
 days_listed — desde la publicación hasta que se elimina
+
 Con este proyecto se busca encontrar los factores que más influyen en el precio de un vehículo.
