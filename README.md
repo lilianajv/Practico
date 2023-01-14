@@ -24,7 +24,7 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Data Sc
 </div>
 ---
 
-### : Proyectos :
+### Mis Proyectos :
 <div id="header" align="left">
   
 | Proyecto | Descripción |
