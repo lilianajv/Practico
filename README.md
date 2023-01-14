@@ -1,7 +1,12 @@
-# Practicum
-En este reporitorio se guardaránn diferentes proyectos realizados en la plataforma Jupyter como parte de la preparación en la carrera de Data Scientist.
-Se genera un archivo TXT donde se presenta de que trata el proyecto, las variables involucradas y el objetivo del proyecto.
-### Hi there
-*  My name is ...
-*  Pronouns: ...
-*  I’m currently working on ...
+<h1>
+  Hola soy Liliana. ¡Encantada de conocerte!
+  #<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+---
+ <div id="header" align="left">
+
+### :woman_technologist: Sobre mí :
+
+Apasionada de la tecnología y disfrutando de una transición laboral al Data Analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
