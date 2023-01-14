@@ -27,19 +27,19 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Data Sc
 ### Mis Proyectos :
 <div id="header" align="left">
   
-| Proyecto | Descripción |
-| --- | --- |
-| Python Básico | Música |
-| Preprocesamiento de Datos | Puntuación de crédito en una entidad bancaria |
-| Análisis Exploratorio de Datos | Factores que influyen en el precio de un vehículo |
-| Análisis Estadístico de Datos | Que tarifa en la compañia telefónica genera más ganancias? |
-| Proyecto 1 | Cuál videojuego vendió más? |
-| Recopilación y almacenamiento de Datos | Preferencia de viaje de los pasajeros |
-| Introducción al Machine Learning | Modelo para escoger el mejor plan telefónico |
-| Aprendizaje supervisado | Dejaría un cliente el banco? |
-| Aprendizaje automático en negocios | Mejor localización para perforar un pozo |
-| Proyecto 2 | Modelo de predicción para una empresa de la industria pesada |
-| Álgebra lineal | Recibirá un cliente beneficios de la comañía de seguros? |
-| Métodos numéricos | Modelo para determinarl el valor de mercado de un coche de segunda mano |
-| Series Temporales | Modelo para predecir la cantidad de pedidos de taxis |
-| Aprendizaje automático para textos | Modelo para predicción |
+| N° Proyecto | Proyecto | Descripción |
+| --- | --- | --- |
+| 1 | Python Básico | Música |
+| 2 | Preprocesamiento de Datos | Puntuación de crédito en una entidad bancaria |
+| 3 | Análisis Exploratorio de Datos | Factores que influyen en el precio de un vehículo |
+| 4 | Análisis Estadístico de Datos | Que tarifa en la compañia telefónica genera más ganancias? |
+| Integrado 1 | Proyecto 1 | Cuál videojuego vendió más? |
+| 5 | Recopilación y almacenamiento de Datos | Preferencia de viaje de los pasajeros |
+| 6 | Introducción al Machine Learning | Modelo para escoger el mejor plan telefónico |
+| 7 | Aprendizaje supervisado | Dejaría un cliente el banco? |
+| 8 | Aprendizaje automático en negocios | Mejor localización para perforar un pozo |
+| Integrado 2 | Proyecto 2 | Modelo de predicción para una empresa de la industria pesada |
+| 9 | Álgebra lineal | Recibirá un cliente beneficios de la comañía de seguros? |
+| 10 | Métodos numéricos | Modelo para determinarl el valor de mercado de un coche de segunda mano |
+| 11 | Series Temporales | Modelo para predecir la cantidad de pedidos de taxis |
+| 12 | Aprendizaje automático para textos | Modelo para predicción |
