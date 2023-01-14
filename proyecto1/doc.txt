@@ -1,8 +1,4 @@
-<div id="header" align="left">
-
-### :musical_note: Y MUSIC :
-
-
+<
 Este proyecto es de un archivo de music que contiene lo siguiente
 Las variables del proyecto son:
 'userID' — identificador del usuario
@@ -13,10 +9,7 @@ Las variables del proyecto son:
 'time' — el periodo de tiempo exacto en que se reprodujo la pista
 'Day' — día de la semana
 
----
- <div id="header" align="left">
-
-###  Objetivo:
+Objetivo:
 
 
 La actividad de los usuarios difiere según el día de la semana y dependiendo de la ciudad.
