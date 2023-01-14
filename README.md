@@ -23,7 +23,8 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Data Sc
  
 </div>
 ---
-
+<div id="header" align="left">
+  
 | Proyecto | Descripción |
 | --- | --- |
 | Python básico | Música |
