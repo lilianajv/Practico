@@ -22,3 +22,8 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Data Sc
   </a>
  
 </div>
+---
+| Proyecto | Descripción |
+| --- | --- |
+| Python básico | Música |
+| Preprocesamiento de Datos | Show file differences that haven't been staged |
