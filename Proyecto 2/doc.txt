@@ -1,4 +1,5 @@
 Este proyecto tiene como próposito crear una puntuación de crédito para un cliente potencial y evaluar la capacidad de pago.
+
 Las varibles son:
 children: el número de hijos en la familia
 days_employed: por cuánto tiempo ha estado trabajando el cliente
@@ -11,9 +12,11 @@ gender: el género del cliente
 income_type: el tipo de ingreso del cliente
 debt: si el cliente ha incumplido alguna vez un préstamo
 total_income: ingresos mensuales
-purpose: motivo por el que se solicita un préstamo
+purpose: motivo por el que se solicita un préstamo.
+
 Se trabaja en Jupyter importando a Pandas como libreria
-Se busca con este proyecto respoder lo siguiente:
+Se busca con este proyecto responder lo siguiente:
+
 ¿Hay alguna conexión entre tener hijos y pagar un préstamo a tiempo?
 ¿Existe una conexión entre el estado civil y el pago a tiempo de un préstamo?
 ¿Existe una conexión entre el nivel de ingresos y el pago a tiempo de un préstamo?
