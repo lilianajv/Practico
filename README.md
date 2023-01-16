@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.canva.com/design/DAFXyoLO_-s/FKDNOQIBNuixvrHXVTCaGA/edit?utm_content=DAFXyoLO_-s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="800"/>
+  <img src="https://github.com/lilianajv/Practico/blob/main/imagen%20github.jpg" width="800"/>
 
 </div>
 
