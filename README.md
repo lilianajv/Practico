@@ -48,3 +48,4 @@ Apasionada de la tecnología y disfrutando de una transición laboral al Data Sc
 | 12 | Métodos numéricos | Modelo para determinarl el valor de mercado de un coche de segunda mano |
 | 13 | Series Temporales | Modelo para predecir la cantidad de pedidos de taxis |
 | 14 | Aprendizaje automático para textos | Modelo para predicción |
+| 15 | Visión artificial | Modelo para identificar por imágenes la edad de un cliente |
